@@ -27,7 +27,7 @@ For this project we used the bellow technologies:
 
 ## 💻 Project
 
-- [Visit this project online](https://moysespimenta.github.io/social-media-accounts)
+- [Visit this project online](https://moysespimenta.github.io/pimentinhas-social-media)
 
 ## 🔖 Layout
 
